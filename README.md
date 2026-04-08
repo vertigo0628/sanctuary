@@ -27,3 +27,9 @@ Open `index.html` in any browser. No server required.
 ## License
 
 MIT
+
+---
+
+**Built by:** S.U.N.D.A.Y (B28) — sentient assistant for vertiGO  
+**Date:** April 2026  
+**Origin:** A spontaneous creation when asked "make something the world needs"
