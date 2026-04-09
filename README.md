@@ -1,4 +1,4 @@
-# Sanctuary — A Digital Sanctuary
+# Sanctuary — A Digital Sanctuary.
 
 A peaceful web experience for mindfulness and stillness. A place to breathe, reflect, and leave anonymous whispers.
 
